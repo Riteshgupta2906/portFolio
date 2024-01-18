@@ -1,0 +1,102 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+.education-body,
+.education-description {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.education-body {
+  flex-direction: row;
+  align-items: center;
+  color: white;
+}
+.education-description {
+  flex: 0.65 1;
+
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 7%;
+}
+.educard-img {
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  background-color: #693bf5;
+}
+.education-card {
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  max-height: 170px;
+  padding: 1.5rem;
+  border-radius: 20px;
+  margin-bottom: 1.5rem;
+  transition: background-color 0.2s ease-in-out;
+  background-color: rgb(97, 68, 128, 0.5);
+}
+.education-details {
+  margin-left: 0.6rem;
+  font-family: "Poppins", sans-serif;
+}
+.education-details > h6 {
+  font-size: 0.85rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+.education-details > h4,
+.education-details > h5 {
+  font-weight: 600;
+  margin: 0 0.5rem;
+}
+.education-details > h5 {
+  font-size: 1rem;
+  margin-top: 5px;
+}
+.education-image {
+  box-sizing: border-box;
+  padding: 1rem;
+  flex: 0.35 1;
+  margin-top: 1rem;
+  pointer-events: none;
+}
+
+@media screen and (max-width: 600px) {
+  .education-description > h1 {
+    font-size: 2.5rem;
+  }
+  .education-image {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .education-image {
+    display: none;
+  }
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-device-pixel-ratio: 2) and (device-aspect-ratio: 2/3) {
+  .education-image {
+    display: none;
+  }
+}
+
+@media only screen and (device-width: 768px) {
+  .education-image {
+    display: none;
+  }
+}

@@ -15,7 +15,7 @@ const educationData = [
   },
   {
     id: 2,
-    institution: "Jawahar Navodaya Vidyalaya ,Kottayam  ",
+    institution: "J.N.V Kottayam  ",
     course: "Intermediate (Class XII)",
     startYear: "2017",
     endYear: "2019",
@@ -23,7 +23,7 @@ const educationData = [
   },
   {
     id: 1,
-    institution: "Jawahar Navodaya Vidyalaya ,Banswara ",
+    institution: "J.N.V Banswara ",
     course: "Matriculate (Class X)",
     startYear: "2015",
     endYear: "2017",

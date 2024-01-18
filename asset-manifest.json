@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a93c3fd.css",
+    "main.js": "/static/js/main.81fecfab.js",
+    "static/js/787.5c0b2d12.chunk.js": "/static/js/787.5c0b2d12.chunk.js",
+    "static/media/eedIITR.png": "/static/media/eedIITR.d98ff307769d51027df1.png",
+    "static/media/samsung.png": "/static/media/samsung.bd69d38ace3f0381c1c0.png",
+    "static/media/ecg.png": "/static/media/ecg.73b883556019ad587798.png",
+    "static/media/cig.png": "/static/media/cig.95cd800f8433418891fb.png",
+    "static/media/store.png": "/static/media/store.8dbbd64ae8e58e9500b3.png",
+    "static/media/link.png": "/static/media/link.9dd2ef2c245b157fb977.png",
+    "static/media/yoga.png": "/static/media/yoga.c828251c8d736b5696f6.png",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/static/media/logo.c8033065ae3383f13766.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/room.png": "/static/media/room.b12184f0f53a162a7e34.png",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/eduOrange.svg": "/static/media/eduOrange.46b6050b827e6c2d036da84b2c06b02b.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/eduImgWhite.svg": "/static/media/eduImgWhite.ae822784fcd9cd22724d630b4218b292.svg",
+    "index.html": "/index.html",
+    "main.0a93c3fd.css.map": "/static/css/main.0a93c3fd.css.map",
+    "main.81fecfab.js.map": "/static/js/main.81fecfab.js.map",
+    "787.5c0b2d12.chunk.js.map": "/static/js/787.5c0b2d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a93c3fd.css",
+    "static/js/main.81fecfab.js"
+  ]
+}
